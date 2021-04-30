@@ -9,4 +9,4 @@ Inspiration/ Antrieb: Alle im App-Store verfügbaren Apps sind: Datenschutztechn
 
 Technische Werkzeuge React Native, da besser für Übersetzen von Android auf iOs und ebenfalls in Java, XML
 
-Studierende der HAW Hamburg Francie Rössler Joseffa Steuernagel Mona von Hein
+Studierende der HAW Hamburg Aiden Rössler Joseffa Steuernagel Mona von Hein
